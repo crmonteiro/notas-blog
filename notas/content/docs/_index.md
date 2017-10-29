@@ -1,7 +1,7 @@
 ---
 title: Documentation
 linkTitle: Docs
-menu: main
+menu: 
 weight: -250
 slug: docs
 ---

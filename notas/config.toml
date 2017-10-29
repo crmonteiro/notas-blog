@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "Minimo"
+title = "Notas de um pequeno país"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
-Paginate = 5
+Paginate = 10
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -17,10 +17,10 @@ enableRobotsTXT = true # generate robots.txt
 pygmentsCodefences = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt"
 
 [params.info]
-description = "Minimalist theme for Hugo"
+description = ""
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -37,10 +37,10 @@ suffix = ""
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
-dateFormat = "2006, Jan 02"
-listDateFormat = "2006, Jan 02"
+dateFormat = "2006-01-02"
+listDateFormat = "2006-01-02"
 hideEntryNavigation = ["page"] # boolean / array of sections
-hideSocialMenu = false
+hideSocialMenu = true
 showReadingTime = true
 
 [params.opengraph.facebook]
@@ -56,15 +56,17 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
+codepen = ""
+email = ""
+facebook = ""
+github = ""
+instagram = ""
+linkedin = ""
+twitter = ""
 
 [params.social.config]
+# If you want to change the order of the social menu icons,
+# modify the [params.social.config] section of your config.toml file:
 platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
 
 [taxonomies]
@@ -74,18 +76,24 @@ tag = "tags"
 
 [permalinks]
 page = "/:slug/"
+blog = "/:year/:month/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = ""
 weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+identifier = ""
+url = "/"
 
 [blackfriday]
 hrefTargetBlank = true
 
 [languages]
 # edit this block for your own language
+[languages.pt]
+lang = "pt"
+languageName = "Portuguese"
+weight = 1
+
 [languages.en]
 lang = "en"
 languageName = "English"
