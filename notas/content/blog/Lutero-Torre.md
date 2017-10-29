@@ -1,7 +1,7 @@
 ---
 title: "A Experiência na Torre, o momento que definiu a vida de Lutero, pela mão de Nick Page"
 date: 2017-10-29T20:39:18Z
-draft: false
+draft: true
 slug: "/experiencia-na-torre-de-Lutero"
 ---
 
