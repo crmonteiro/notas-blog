@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "Notas de um pequeno país"
+baseURL = "https://www.pequenopais.com"
+title = "Pequeno país"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -93,6 +93,11 @@ hrefTargetBlank = true
 lang = "pt-pt"
 languageName = "Portuguese"
 weight = 1
+
+[[Languages.pt.menu.main]]
+  name = "Sobre"
+  url = "/sobre-um-pequeno-pais"
+  weight = 2
 
 [languages.en]
 lang = "en"
