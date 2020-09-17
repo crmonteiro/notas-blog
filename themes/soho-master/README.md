@@ -1,5 +1,45 @@
-baseURL = "https://www.pequenopais.com"
-title = "Pequeno país"
+# Soho
+
+Soho is a minimalist two-column [hugo](https://gohugo.io) theme based on [Hyde](https://github.com/spf13/hyde) and inspired by the success of [Flex](https://github.com/alexandrevicenzi/Flex).
+
+![Screenshot](https://raw.githubusercontent.com/alexandrevicenzi/soho/master/images/tn.png)
+
+## Features
+
+- Mobile First
+- Responsive
+- Semantic
+- SEO Best Practices
+- Open Graph
+- Rich Snippets (JSON-LD)
+- Twitter Card
+- Pagination
+- Customizable
+- Support all [Hugo Internals](https://gohugo.io/templates/internal/)
+
+## Integrations
+
+- [Disqus](https://disqus.com/)
+- [Google Analytics](https://www.google.com/analytics/web/)
+
+## Installation
+
+To install Soho as your default theme, first install this repository in the `themes/` directory:
+
+    $ cd themes/
+    $ git clone https://github.com/alexandrevicenzi/soho.git
+
+Second, specify `soho` as your default theme in the `config.toml` file. Just add the line
+
+    theme = "soho"
+
+at the top of the file.
+
+## Configuration
+
+```toml
+baseURL = "https://example.com"
+title = "Soho"
 languageCode = "en"
 enableInlineShortcodes = true
 
@@ -72,3 +112,8 @@ customJs = ["js/blog.js"]
   noClasses = true # if false, you need to provide you own custom CSS
   style = "monokai"
   tabWidth = 4
+```
+
+## License
+
+MIT

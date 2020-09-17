@@ -1,31 +1,27 @@
-baseURL = "https://www.pequenopais.com"
-title = "Pequeno país"
+baseurl = "https://example.com/"
 languageCode = "en"
+title = "Soho Theme"
+DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-
 summarylength = 10
 enableEmoji = true
+paginate = 5
 
 [params]
-author = "Author Name"
-description = "My Blog"
-
-## Set one of:
+title = "Soho Theme"
+description = "Example Blog"
 # gravatar = "soho@example.com"
+images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-
 copyright = "Author Name"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+mainSections = ["post"]
 
 ## Set custom theme color.
 # themeColor = "#fc2803"
 
-## Set custom CSS and/or JS to override site defaults.
-customCss = ["css/blog.css"]
-customJs = ["js/blog.js"]
-
-  ## Set as many as you want.
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
@@ -34,12 +30,17 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
+  url = "https://github.com/alexandrevicenzi/soho"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
   url = "#"
+
+[taxonomies]
+  series = "series"
+  category = "categories"
+  tag = "tags"
 
 [menu]
 
@@ -50,15 +51,28 @@ customJs = ["js/blog.js"]
   url = "/posts/"
 
   [[menu.main]]
+  name = "Categories"
+  weight = 200
+  identifier = "categories"
+  url = "/categories/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 200
+  identifier = "tags"
+  url = "/tags/"
+
+  [[menu.main]]
   name = "About"
   identifier = "about"
-  weight = 300
+  weight = 10
   url = "/about/"
 
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
+  [[menu.main]]
+  name = "Contact"
+  identifier = "contact"
+  weight = 20
+  url = "/contact/"
 
 [markup]
 
@@ -69,6 +83,6 @@ customJs = ["js/blog.js"]
   lineNoStart = 1
   lineNos = false
   lineNumbersInTable = true
-  noClasses = true # if false, you need to provide you own custom CSS
+  noClasses = true
   style = "monokai"
   tabWidth = 4
