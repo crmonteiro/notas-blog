@@ -29,9 +29,7 @@ Isto levanta uma questão importante sobre a forma como tratamos o nosso tempo, 
 Shulevitz comenta esta tendência no artigo [_Bring Back the Sabbath_](https://www.nytimes.com/2003/03/02/magazine/bring-back-the-sabbath.html?pagewanted=all):
 
 > The lonely Sunday has been replaced by the overscheduled Sunday — soccer Sunday, Little League Sunday, yoga-class Sunday, catch-up-around-the-house Sunday. Americans still go to church, of course, but only in between chores, sporting events and shopping expeditions. (You can now find A.T.M. machines inside megachurches; congregants don't have to waste a minute between services and the mall.)
-
 > …
-
 > … I won't weary you with cautionary tales about what our work-addicted culture can do to you, psychologically and physiologically, because, for one thing, it's completely within your power to hold it at bay, and for another, you don't want to anyway. Ours is a society that pegs status to overachievement; we can't help admiring workaholics.
 
 A sugestão dos três autores é análoga à de Speck quando sugere que nunca construamos estradas com mais de duas faixas (recusando a congestão e tornando a cidade mais segura, interessante, e fácil de percorrer a pé). A ação de descansar, definida como momentos de sossego no nosso dia, requer a mesma disciplina que dedicamos à tarefa: que digamos que não; que andemos de bicicleta sem destino; que nos refugiemos à sombra de montanhas por um dia.
