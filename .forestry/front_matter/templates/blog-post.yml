@@ -26,3 +26,5 @@ fields:
 - type: list
   name: aliases
   label: aliases
+pages:
+- content/post/moises-maria-popova-e-judith-shulevitz-sobre-o-descanso.md
