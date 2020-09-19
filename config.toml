@@ -3,7 +3,7 @@ disablePathToLower = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 theme = "hugo-geekblog"
-title = "Geekblog"
+title = "A pé ou de carro"
 [markup.goldmark.renderer]
 unsafe = true
 [markup.tableOfContents]
