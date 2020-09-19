@@ -2,7 +2,7 @@ baseURL = "http://localhost"
 disablePathToLower = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-theme = "hugo-geekblog"
+theme = "soho-master"
 title = "A pé ou de carro"
 [markup.goldmark.renderer]
 unsafe = true
