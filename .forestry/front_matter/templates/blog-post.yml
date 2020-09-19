@@ -26,3 +26,5 @@ fields:
 - type: list
   name: aliases
   label: aliases
+pages:
+- content/post/the-discreet-credit-of-wanting.md

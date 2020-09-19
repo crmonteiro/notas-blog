@@ -1,0 +1,21 @@
++++
+aliases = []
+author = "CM"
+categories = []
+date = 2020-07-22T23:00:00Z
+description = ""
+draft = true
+series = []
+tags = []
+title = "The discreet credit of wanting"
+
++++
+[Nota: excecionalmente, este não vai em português.]
+I read [an article](https://www.theguardian.com/artanddesign/2019/mar/21/how-to-move-a-masterpiece-secret-business-shipping-priceless-artworks-art-handling) about art traveling the world that said: “What happens behind the signs reading 'No Entry: Installation in progress' remains a ferociously guarded secret. The only hint (...) is a discreet credit on the wall.”
+The discreet credit holds back the floodwaters of what it takes to put together an exhibit—the shipping and handling, the logistics, agreements and favors, plane tickets for an oil canvas. It has to seem effortless so that you focus on the artwork and not on the stamps on its passport. The credit is a ballerina taught to keep a secret the weight of a body, the game of tight and loose. 
+We do the same with the logistics of wanting. I remember, many years ago in my teens, seeing a picture of Brad Pitt and Jennifer Anniston in casual wear, seemingly laid back from within. It was effortless. Then the article mentioned the price of Jennifer Anniston's trousers and added that a lot of effort is poured into pretending you don't care. You disguise the wanting, you intimate meaning.
+When Samson insisted with his parents he had found the woman he wanted for a bride, the writer opened his sentence with “She”: She is the one I want, he said.[^1] He wanted her more than anything, and would defy parents, God and culture, and then kill thirty soldiers for their gear when realizing her betrayal, not out of grief but in a tantrum.
+(And only moments later—for both the thirsty reader and the long observer, one filled with disgust, the other armed with patience—moments later, Samson falls for another woman. Another less well-kept secret: want is fickle.)
+“She” is the discreet credit in word choice and syntax, holding back the floodwaters of Samson's wanting; an arabesque, the “ferociously guarded secret” now up in display.
+
+[^1]: "Get her for me, because she is the right one for me.", he said (in the Old Testament, [Judges 14:3 NET](https://www.bible.com/107/jdg.14.3.net)). A translation note reads, "'Her' is first in the Hebrew word order for emphasis. Samson wanted this Philistine girl, no one else."
