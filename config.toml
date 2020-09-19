@@ -1,4 +1,4 @@
-baseURL = "https://pequenopais.netlify.app"
+baseURL = "http://localhost"
 title = "Geekblog"
 theme = "hugo-geekblog"
 
