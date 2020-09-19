@@ -1,21 +1,10 @@
-# A match made in heaven
++++
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
++++
+[Ler o blog]() ou ler abaixo para saber o que é isto:
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+Hey!
 
-[Go to the original bear blog](https://bearblog.dev/).
+O meu nome é Cláudia Monteiro e reúno achados de podcasts, conversas, artigos e livros. A essência de A Pé ou de Carro é a convicção de que qualquer coisa se torna interessante se passarmos tempo suficiente com ela, e que tudo neste mundo abre caminho para perguntas maiores, seja exemplos de conservação, a história do vírus do HIV ou a Páscoa no texto bíblico. A lente de uma só pessoa é subjetiva, mas espero que alguma parte ecoe desse lado também.
 
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+Sob influência do confinamento, não me encontram nas redes sociais mas em apeoudecarro no Gmail, à moda antiga.
