@@ -8,7 +8,7 @@ theme = 'hugo-bearblog'
 title = "A pé ou de carro"
 author = "Cláudia Monteiro"
 copyright = "Copyright © 2020, Jane Doe."
-languageCode = "en-US"
+languageCode = "pt-pt"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
