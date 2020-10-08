@@ -7,7 +7,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "A pé ou de carro"
 author = "Cláudia Monteiro"
-copyright = "Copyright © 2020, Jane Doe."
+copyright = "Copyright © 2020, Cláudia Monteiro."
 languageCode = "pt-pt"
 
 # Generate a nice robots.txt for SEO
