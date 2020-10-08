@@ -1,7 +1,6 @@
 +++
 date = 2018-02-08T00:00:00Z
 layout = "post"
-tags = ["texto bíblico"]
 title = "Leitura Leve"
 
 +++
