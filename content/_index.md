@@ -4,4 +4,4 @@ Há uma [lista de tags](https://apeoudecarro.org/blog) no fundo do blog. É o me
 
 [Aqui](https://apeoudecarro.org/blog/en-ingl%C3%A9s/), algum texto em estrangeiro.
 
-Para mais conversas, virem para apeoudecarro no Gmail, à moda antiga.
+Se quiserem continuar a conversa, convido-vos a usar o apeoudecarro no Gmail, à moda antiga.
