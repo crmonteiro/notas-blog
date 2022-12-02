@@ -10,7 +10,7 @@ O meu nome é Cláudia Monteiro e escrevo o _A pé ou de carro_, que tem esse no
 
 Falo muito de [teologia](/blog/teologia), cuja razão de ser é a derradeira pergunta importante. Os nossos sistemas de crenças dão estrutura ao nosso discernimento: alguns contêm milénios dele, e a nossa vida pública é enriquecida quando lhes damos espaço. O meu é o cristianismo, em particular o protestante, que chegou a Portugal a passo de caracol.
 
-Também escrevo sobre [podcasts](/blog/podcasts), [museus](/blog/museus/), o [espaço](/blog/espaço/) e a [Mona Lisa](blog/mona-lisa/)).
+Também escrevo sobre [podcasts](/blog/podcasts), [museus](/blog/museus/), o [espaço](/blog/espaço/) e a [Mona Lisa](blog/mona-lisa/).
 
 Aqui encontram algum texto [em estrangeiro](/blog/en-inglés).
 
