@@ -6,8 +6,10 @@ title = "O que é isto"
 weight = 1
 
 +++
-Hey! O meu nome é Cláudia Monteiro. A pé ou de carro começou por ser uma coleção de achados de podcasts, conversas, artigos e livros, fruto da convicção de que qualquer coisa se torna interessante se passarmos tempo suficiente com ela, e de que tudo neste mundo abre caminho para perguntas maiores: seja exemplos de conservação, a história do vírus do HIV ou a Páscoa no texto bíblico. Neste momento, a teologia é assunto dominante por ser interessante; a pé ou de carro, tenho ido dar à porta dela.
+O meu nome é Cláudia Monteiro e escrevo o _A pé ou de carro_, que tem esse nome pela convicção de que tudo vai dar às perguntas mais importantes, até [cacos](/sobre-a-perspetiva-de-cacos-e-ossos/); só varia a velocidade.
 
-A voz de uma pessoa é subjetiva, mas espero que ecoe desse lado.
+Falo muito de [teologia](/blog/teologia), cuja razão de ser é a derradeira pergunta importante. Os nossos sistemas de crenças dão estrutura ao nosso discernimento: alguns contêm milénios dele, e a nossa vida pública é enriquecida quando lhes damos espaço.
 
-Isto é conversa em câmara lenta, mas outras velocidades são bem-vindas. Para já, encontram-me em apeoudecarro no Gmail, à moda antiga.
+Aqui encontram algum texto [em estrangeiro](/blog/en-inglés).
+
+Para já, não há redes sociais, mas convido-vos a continuar a conversa um-a-um, à moda antiga, em apeoudecarro no gmail.
