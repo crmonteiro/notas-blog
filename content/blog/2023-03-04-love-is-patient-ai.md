@@ -1,6 +1,6 @@
 +++
 title = "Love is patient"
-date = "2023-03-07"
+date = "2023-04-07"
 description = "Thirty-tree words on the dust we’re made of"
 tags = [
     "en inglés", "poesia", "inteligência artificial"
