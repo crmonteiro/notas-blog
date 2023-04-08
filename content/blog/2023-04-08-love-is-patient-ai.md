@@ -24,4 +24,4 @@ and listen
 
 ￼
 [^1]: A 2022 survey of AI experts cited by Ezra Klein in "My view on AI", [_The Ezra Klein Show_](https://pca.st/episode/c631ce08-07fd-4c3a-a0d9-44d60e764fd5).
-[^2]: In [_Pause Giant AI Experiments: An Open Letter_](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) by the Future of Life Institute (shown to me by Tim Joset, a good friend), calling on AI labs to "immediately pause for at least 6 months the training of AI systems more powerful than GPT-4."
+[^2]: In [_Pause Giant AI Experiments: An Open Letter_](https://futureoflife.org/open-letter/pause-giant-ai-experiments/) by the Future of Life Institute (shown to me by Tim Joset, a good friend), calling on AI labs to "pause for at least 6 months the training of AI systems more powerful than GPT-4."
