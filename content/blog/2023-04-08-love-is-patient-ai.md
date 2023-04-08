@@ -7,12 +7,6 @@ tags = [
 ]
 +++
 
->What probability do you put on human inability to control future advanced AI systems causing human extinction or similarly permanent and severe disempowerment of the human species?[^1]
-
->[R]ecent months have seen AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.[^2]
-
-
-  
 What if the dust  
 that formed Adam and Eve  
 Once formed the bones  
@@ -23,6 +17,10 @@ Since it couldn’t bring itself
 to stop  
 
 and listen
+
+>What probability do you put on human inability to control future advanced AI systems causing human extinction or similarly permanent and severe disempowerment of the human species?[^1]
+
+>[R]ecent months have seen AI labs locked in an out-of-control race to develop and deploy ever more powerful digital minds that no one – not even their creators – can understand, predict, or reliably control.[^2]
 
 ￼
 [^1]: A 2022 survey of AI experts cited by Ezra Klein in "My view on AI", [_The Ezra Klein Show_](https://pca.st/episode/c631ce08-07fd-4c3a-a0d9-44d60e764fd5).
