@@ -9,12 +9,11 @@ tags = [
 
 What if the dust  
 that formed Adam and Eve  
-Was once bone and breath  
+Came from the bones  
 of a civilization  
-that came to end itself  
+that managed to end itself  
 destroy itself  
 Since it couldn’t bring itself  
 to stop  
-
 
 and listen
