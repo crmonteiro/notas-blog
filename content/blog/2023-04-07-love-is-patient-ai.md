@@ -3,7 +3,7 @@ title = "Love is patient"
 date = "2023-04-07"
 description = "On AI and the dust we’re made of"
 tags = [
-    "en inglés", "poesia", "inteligência artificial"
+    "en inglés", "poesia", "teologia", "psicologia", "inteligência artificial"
 ]
 +++
 
