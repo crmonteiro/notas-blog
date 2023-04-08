@@ -7,9 +7,9 @@ tags = [
 ]
 +++
 
-<p>What if the dust<br>
+What if the dust
 
-that formed Adam and Eve</p>
+that formed Adam and Eve
 
 Once made up the bones
 of a civilization
