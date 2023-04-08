@@ -9,7 +9,7 @@ tags = [
 
 What if the dust  
 that formed Adam and Eve  
-Once formed the bones  
+Was once bone and breath  
 of a civilization  
 that came to end itself  
 destroy itself  
