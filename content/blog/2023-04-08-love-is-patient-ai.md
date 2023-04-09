@@ -14,5 +14,4 @@ of a civilization
 that came to end itself  
 Since it couldn’t bring itself  
 to stop  
-
 and listen
