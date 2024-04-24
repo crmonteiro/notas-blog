@@ -1,5 +1,5 @@
 +++
-title = "A sarcophagus lid and other memorials to love and loss"
+title = "Memorials to love and loss through millenia"
 date = "2024-04-24"
 description = "The artifacts of the stories we tell each other propel the conversation through millennia."
 tags = [
