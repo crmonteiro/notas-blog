@@ -1,6 +1,6 @@
 +++
 title = "Memorials to love and loss through millenia"
-date = "2024-04-24"
+date = "2024-04-21"
 description = "The artifacts of the stories we tell each other propel the conversation through millennia."
 tags = [
     "en inglés", "arte", "museus", "cultura", "história",
