@@ -3,7 +3,7 @@ title = "Ice in the desert"
 date = "2024-06-15"
 description = "Ancient Persians used to make ice in the desert."
 tags = [
-    "ambiente", "ciência", "en inglés", "história"
+    "ambiente", "ciência", "en inglés", "história", "podcasts"
 ]
 +++
 
