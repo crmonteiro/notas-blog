@@ -1,6 +1,6 @@
 +++
 title = "Churches in storefronts"
-date = "2025-11-29"
+date = "2024-11-29"
 description = "On evangelicals meeting in storefronts."
 tags = [
     "en inglés", "teologia", "história"
