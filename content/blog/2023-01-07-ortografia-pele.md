@@ -19,7 +19,7 @@ Que sentido dão Ivo Castro e colegas à ortografia como «a epiderme da língua
 
 >De facto, quando (utilizando a gíria médica) fazemos uma lesão na nossa epiderme, sabemos muito bem que ela incomoda, faz doer e pode ter consequências nos tecidos mais profundos que vão até aos danos irreparáveis (…). E mesmo quando a lesão é ligeira, ela desfeia ou desfigura… A nosso ver, é precisamente neste sentido que a afirmação acima deve ser entendida.
 
-Por outras palavras, a escrita afecta a fala. O que lemos também influencia o que dizemos.
+Por outras palavras, a escrita afecta a fala. O que lemos influencia o que dizemos.
 
 Como uma língua nunca pára, a ortografia requer atenção regular. No entanto, apesar dos anos desde a sua chegada, o acordo de 1990 continua controverso. O acordo de 1945 continua a ser usado por entidades como o Público, o Governo Sombra — e os seus três comentadores — e editoras de renome. Dois livros importantes publicados recentemente usam o acordo de 45: o _Super-Camões – Biografia de Fernando Pessoa_, de João Pedro George, pela Dom Quixote; e o _Sexta-Feira é o Novo Sábado_, do economista Pedro Gomes, pela Relógio D'Água, sobre a semana de quatro dias.
 
