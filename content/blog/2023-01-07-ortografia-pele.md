@@ -3,7 +3,7 @@ title = "A ortografia como pele da língua"
 date = "2023-01-07"
 description = "Seria bom ter uma conversa pública e robusta sobre o acordo ortográfico."
 tags = [
-    "ortografia", "história”, “cultura”, “participação cívica”, “Portugal”, 
+    "ortografia", "história", "cultura", "participação cívica", "Portugal", 
 ]
 +++
 
