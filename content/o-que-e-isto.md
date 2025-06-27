@@ -17,6 +17,7 @@ Aqui encontram algum texto [em estrangeiro](/blog/en-inglés).
 Não há redes sociais, mas convido-vos a continuar a conversa um-a-um, à moda antiga, em apeoudecarro no gmail.
 
 —
+
 My name is Cláudia Ramos Monteiro, born and raised in Portugal, and I write _A pé ou de carro_ (literally, On foot or by car), which takes its name from my conviction that everything small leads to big questions, regardless of speed and direction.
 
 I write a lot about theology, the field grounded in ultimate questions. Our belief systems structure our discernment: some contain millennia of it, and our public life is enriched when we acknowledge them. For me, that is Christianity, particularly Protestant Christianity, which arrived in Portugal very much on foot. I recently moved to Canada to study theology.
