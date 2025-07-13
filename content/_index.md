@@ -6,6 +6,5 @@ Há uma [lista de tags](https://apeoudecarro.org/blog) no fundo do blog. É o me
 
 Convido-vos a continuar a conversa em apeoudecarro no Gmail, à moda antiga.
 
-—
+_Don't speak Portuguese? Read my work in English [here](https://apeoudecarro.org/blog/en-ingl%C3%A9s/).)_
 
-Welcome! Read my work in English [here](https://apeoudecarro.org/blog/en-ingl%C3%A9s/).
