@@ -20,10 +20,10 @@ Não há redes sociais, mas convido-vos a continuar a conversa um-a-um, à moda 
 
 —
 
-### Hello, there
+### Hello, there,
 
-My name is Cláudia Ramos Monteiro, born and raised in Portugal, and I write _A pé ou de carro_ (literally, On foot or by car), which takes its name from my conviction that everything small leads to big questions, regardless of speed and direction.
+My name is Cláudia Ramos Monteiro, born and raised in Portugal (currently living in Canada), and I write _A pé ou de carro_ (literally, On foot or by car), which takes its name from my conviction that everything small leads to big questions, regardless of speed and direction.
 
-I write a lot about theology, the field grounded in ultimate questions that structure our discernment: some belief systems have wandered that field for millennia, and our public life is enriched when we acknowledge them. My imagination was shaped by a mixture of secular culture and Christianity, particularly Protestant Christianity, which arrived in Portugal very much on foot. I recently moved to Canada to study theology.
+I write a lot about theology, the field grounded in ultimate questions that structure our discernment: some belief systems have wandered that field for millennia, and our public life is enriched when we acknowledge them. My imagination was shaped by a mixture of secular culture and Christianity, particularly Protestant Christianity, which arrived in Portugal very much on foot.
 
 Read my work in English [here](/blog/en-inglés).
