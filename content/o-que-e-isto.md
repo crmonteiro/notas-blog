@@ -1,7 +1,7 @@
 +++
 date = ""
 layout = "page"
-title = "O que é isto / Hello, there"
+title = "O que é isto | Hello, there"
 [menu.main]
 weight = 1
 
