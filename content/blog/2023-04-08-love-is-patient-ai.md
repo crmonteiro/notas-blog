@@ -10,5 +10,5 @@ tags = [
 What if the dust  
 that formed Adam and Eve  
 Was ground from the bones  
-of a civilization
+of a civilization  
 that came to end itself
